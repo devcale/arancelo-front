@@ -1,4 +1,3 @@
-import React from 'react';
 import AranceloApp from './components/AranceloApp';
 
 function App() {
